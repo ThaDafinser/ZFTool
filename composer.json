@@ -36,7 +36,7 @@
         "zendframework/zend-view": ">=2.2.2"
     },
     "suggest": {
-        "zendframework/zenddiagnostics": "2.0.*@dev"
+        "zendframework/zenddiagnostics": "Check enviroment and module needs"
     },
     "bin": ["zf.php"]
 }

@@ -35,5 +35,8 @@
         "zendframework/zend-version": ">=2.2.2",
         "zendframework/zend-view": ">=2.2.2"
     },
+    "suggest": {
+        "zendframework/zenddiagnostics": "2.0.*@dev"
+    },
     "bin": ["zf.php"]
 }
